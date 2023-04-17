@@ -25,13 +25,19 @@ Git
 
 Installation
 Clone the repository to your local machine:
-```git clone https://github.com/sadihasanov/cyber-life.git```
-```pip install -r requirements.txt```
+```bash 
+git clone https://github.com/sadihasanov/cyber-life.git
+```
+```python 
+pip install -r requirements.txt
+```
 
 Usage
 To start the Self-Improving AI Agent, run the following command from the repository directory:
 
-```python main.py```
+```python
+python main.py
+```
 
 Contributing
 We welcome contributions from the community!
