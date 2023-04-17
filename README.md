@@ -1,5 +1,3 @@
-Cyber Life
-
 ### (Human Text)
 This repo is aimed at creating the world's first repository that will mostly contained AI-written code by self-improving self-agent. Idea is to track the percentage of the code written by humans and percentage written by the AI itself. I will continuosly update the percentage and when forking, please add in the description whether code was written by you or by this self-improving agent.
 ###
